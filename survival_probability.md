@@ -1,4 +1,4 @@
-# survival analysis #
+# survival probability #
 ## survival function ##
 ![](http://i.imgur.com/j9nBrk1.jpg)
 ## mortality laws ##
@@ -18,6 +18,6 @@
 ![](http://i.imgur.com/gWUwQds.jpg)
 UDD를 가정한다고 하면 처음에는 force of mortality가 작고 후에 force of mortality가 커진다는 말과 같은 맥락입니다.
 
-분모 (1 - s * Px)가 점점 작아지니 force of mortality는 점점 커지겠지요.
+분모 (1 - s * qx)가 점점 작아지니 force of mortality는 점점 커지겠지요.
 
 uniform f(x)와 비슷한 맥락에서 이해하세요.
